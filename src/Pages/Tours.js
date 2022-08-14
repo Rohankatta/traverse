@@ -8,7 +8,6 @@ export default function Tours() {
       <Nav />
       <Tour />
       <Footer />
-      
     </>
   );
 }

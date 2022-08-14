@@ -25,20 +25,6 @@ export const Nav = () => {
               Services
             </Link>
           </li>
-
-          <li>
-            <Link
-              to="/Review_tour"
-              aria-label="Review_tour"
-              title="Review_tour"
-              className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-            >
-              Review
-            </Link>
-          </li>
-
-
-
         </ul>
         <Link
           to="/"
